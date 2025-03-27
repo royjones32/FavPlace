@@ -20,3 +20,6 @@ Kullanıcı önerilen etkinlikleri görüntüler.Etkinlik detaylarına girerek i
   Kullanıcı giriş yapar veya ziyaretçi olarak devam eder."Etkinlikler" sekmesine tıklar.
 Kullanıcı "Alfabetik Sıralama" seçeneğini seçer.
 Sistem, etkinlikleri A-Z veya Z-A olarak sıralar.Kullanıcı listelenen etkinlikleri inceleyebilir ve seçim yapabilir.
+15- hesap oluşturma
+Kullanıcı "Kayıt Ol" butonuna tıklar.Ad, soyad, e-posta ve şifre gibi bilgileri girer."Kaydet" butonuna basarak hesabını oluşturur.
+Sistem, kullanıcıya doğrulama e-postası gönderir.Kullanıcı e-postadaki bağlantıya tıklayarak hesabını doğrular.Kullanıcı, başarıyla giriş yapabilir.
