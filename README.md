@@ -10,10 +10,12 @@ Proje Kategorisi : Etkinlik rehberi
 
 
 Grup Adı : NullPointers 
+Proje Ekibi : Ahmet Burak AR, Esranur Çınar, Hakan Çatal
+
 1. [Proje Gereksinimleri](https://github.com/rakarubtemha/FavPlace/blob/main/Proje%20Gereksinimleri)
 2. [Proje Ana Sayfası](https://github.com/rakarubtemha/FavPlace/blob/main/README.md)
 3. [Durum Diyagramı Görüntüle](https://github.com/rakarubtemha/FavPlace/blob/main/durum%20diyagram%C4%B1.jpeg)
 4. [Esranur Cinar Gereksinimler Dokümanı](https://github.com/rakarubtemha/FavPlace/blob/main/esranurcinar%20gereksinimlerr)
 5. [Esranur Cinar - Durum Senaryoları (7-15)](https://github.com/rakarubtemha/FavPlace/blob/main/DURUM.SENARYOLARI.pdf)
-Proje Ekibi : Ahmet Burak AR, Esranur Çınar, Hakan Çatal
+
 
