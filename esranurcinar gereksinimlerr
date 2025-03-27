@@ -1,0 +1,22 @@
+ 8 Puan verme (Esranur)
+ Kullanıcı "Puan Ver" butonuna tıklar.Sistem 1-5 arası yıldız seçeneği sunar.Kullanıcı puanını seçer ve onaylar.Sistem puanı kaydeder, ortalama puanı günceller ve onay mesajı gösterir.
+  9 Yorum yapma (Esranur)
+  Kullanıcı yorum yap butonuna tıklar.Sistem yorum metin kutusunu açar.Kullanıcı yorumunu yazar ve gönderir.Sistem yorumu kaydeder ve onay mesajı gösterir.
+  10 Şifre Güncelleme / Şifremi unuttum (Esranur)
+  Kullanıcı "Şifremi Unuttum" veya "Şifre Güncelle" butonuna tıklar.Sistem e-posta/kullanıcı adı sorar.Kullanıcı bilgilerini girerek "Gönder"e basar.
+Sistem şifre sıfırlama linkini e-posta ile gönderir.Kullanıcı linke tıklar, yeni şifresini girer ve onaylar.Sistem şifreyi günceller ve başarı mesajı gösterir
+  11 Etkinlik listeleme (Esranur)
+  Kullanıcı giriş yapar veya ziyaretçi olarak devam eder.
+"Etkinlikler" sekmesine tıklayarak listeye ulaşır.Etkinlikleri filtreleyebilir veya arama yapabilir.Bir etkinliğe tıklayarak detaylarını görüntüler.
+Katılabilir, favorilere ekleyebilir veya paylaşabilir.Ana sayfaya geri dönebilir.
+  12 Etkinlik oluşturma (Esranur) 
+ Kullanıcı giriş yapar."Etkinlik Oluştur" butonuna tıklar.
+Etkinlik adı, tarih, saat, konum ve açıklama gibi bilgileri girer."Kaydet" butonuna basarak etkinliği oluşturur.
+Etkinlik listesinde yeni etkinlik görüntülenir.
+  13 Puana göre sıralama (önerilenler) (Esranur)
+  Kullanıcı giriş yapar veya ziyaretçi olarak devam eder."Önerilen Etkinlikler" sekmesine tıklar.Sistem, etkinlikleri kullanıcı puanlarına göre sıralar.
+Kullanıcı önerilen etkinlikleri görüntüler.Etkinlik detaylarına girerek inceleyebilir veya katılabilir.
+  14 Alfabetik sıralama (Esranur)
+  Kullanıcı giriş yapar veya ziyaretçi olarak devam eder."Etkinlikler" sekmesine tıklar.
+Kullanıcı "Alfabetik Sıralama" seçeneğini seçer.
+Sistem, etkinlikleri A-Z veya Z-A olarak sıralar.Kullanıcı listelenen etkinlikleri inceleyebilir ve seçim yapabilir.
