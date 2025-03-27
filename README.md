@@ -12,6 +12,9 @@ Proje Kategorisi : Etkinlik rehberi
 Grup Adı : NullPointers
 ## 📋 Proje Gereksinimleri
 Projenin detaylı gereksinimlerine [buradan](https://github.com/rakarubtemha/FavPlace/blob/ecf0bce3b091a4776e87a201dfbc3fd6f3c6314e/Proje%20Gereksinimleri) ulaşabilirsiniz.
+| Doküman | Link | Esranur Cinar'ın gereksinimlerine bu linkten ulaşabilirsiniz:
+|---------|------|
+| Gereksinimler | [GitHub Linki](https://github.com/rakarubtemha/FavPlace/blob/ecf0bce3b091a4776e87a201dfbc3fd6f3c6314e/esranurcinar%20gereksinimlerr) |
 
 
 Proje Ekibi : Ahmet Burak AR, Esranur Çınar, Hakan Çatal
