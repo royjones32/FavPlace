@@ -10,7 +10,7 @@ Proje Kategorisi : Etkinlik rehberi
 
 
 Grup Adı : NullPointers
-
+Projenin belirli bir versiyonuna [buradan](https://github.com/rakarubtemha/FavPlace/tree/ecf0bce3b091a4776e87a201dfbc3fd6f3c6314e) ulaşabilirsiniz.
 
 
 Proje Ekibi : Ahmet Burak AR, Esranur Çınar, Hakan Çatal
