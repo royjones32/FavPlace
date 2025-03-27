@@ -15,3 +15,4 @@ Grup Adı : NullPointers
 
 Proje Ekibi : Ahmet Burak AR, Esranur Çınar, Hakan Çatal
 
+[Durum Senaryoları - Burak](Durum/ Kullanıcı Başarı Senaryoları (UC1-UC7).pdf)
